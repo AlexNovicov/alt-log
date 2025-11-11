@@ -21,7 +21,7 @@
 
 <div class="container-fluid">
     <div class="row">
-        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+        <nav class="col-4 col-md-2 bg-light sidebar">
             <div class="sidebar-sticky">
 
                 <div class="log-list-title">
@@ -40,7 +40,7 @@
             </div>
         </nav>
 
-        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+        <main role="main" class="col-8 col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
 
             <div class="status-log-list"></div>
             <div class="status-log"></div>
